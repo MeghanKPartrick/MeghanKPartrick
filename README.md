@@ -4,7 +4,7 @@
 
 - <b>Basic Data Analytics (R)</b>
   - [Modeling and Transformations](https://github.com/MeghanKPartrick/BasicModeling)
-  - [Data Analytics 2](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Continued Modeling with Extra Testing](https://github.com/MeghanKPartrick/ModelingandTesting)
 - <b>Advanced Data Analytics (R)</b>
   - [Advanced Data Analytics 1](https://github.com/joshmadakor1/Sentinel-Lab)
 
