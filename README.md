@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
 - <b>Basic Data Analytics (R)</b>
-  - [Data Analytics Introduction](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Modeling and Transformations](https://github.com/MeghanKPartrick/BasicModeling)
   - [Data Analytics 2](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Economic Analysis (Stata)</b>
   - [Economics 1](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
