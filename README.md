@@ -5,16 +5,14 @@
 - <b>Basic Data Analytics (R)</b>
   - [Modeling and Transformations](https://github.com/MeghanKPartrick/BasicModeling)
   - [Data Analytics 2](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Economic Analysis (Stata)</b>
-  - [Economics 1](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>Advanced Data Analytics (R)</b>
   - [Advanced Data Analytics 1](https://github.com/joshmadakor1/Sentinel-Lab)
 
 <h2>📊 Economics Research</h2>
 
-- <b>Published Work</b>
+- <b>Published Work (Stata)</b>
   - [Impact of Federal Pandemic Unemployment Compensation on the Individual Decision to Work Post-Pandemic in the US](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-- <b>Additional</b>
+- <b>Additional (Stata)</b>
   - [Insert Paper Name](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>📺 YouTube Videos</h2>
