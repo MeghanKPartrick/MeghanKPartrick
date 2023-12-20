@@ -13,7 +13,7 @@
 - <b>Published Work (Stata)</b>
   - [Impact of Federal Pandemic Unemployment Compensation on the Individual Decision to Work Post-Pandemic in the US](https://github.com/MeghanKPartrick/FPUC-2Research)
 - <b>Additional (Stata)</b>
-  - [Insert Paper Name](https://github.com/MeghanKPartrick)
+  - [Impact of Federal Pandemic Unemployment Compensation on the Individual Decision to Work Post-Pandemic: Complex Models](https://github.com/MeghanKPartrick/FPUC-Individual-Research/blob/main/README.md)
 
 <h2>📺 YouTube Videos</h2>
 
