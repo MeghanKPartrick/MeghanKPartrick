@@ -1,19 +1,19 @@
 <h1>Hi, I'm Meghan! <br/><a href="future link here">Data Analyst</a>, <a href="future link here">Economist</a>, <a href="future link here">Data Scientist</a>
 
-<h2>👨‍💻 Data Analysis Projects:</h2>
+<h2>👨‍💻 Data Projects:</h2>
 
-- <b>Basic Data Analytics (R)</b>
+- <b>Data Analytics (R)</b>
   - [Modeling and Transformations](https://github.com/MeghanKPartrick/BasicModeling)
   - [Continued Modeling with Extra Testing](https://github.com/MeghanKPartrick/ModelingandTesting)
-- <b>Advanced Data Analytics (R)</b>
-  - [Advanced Data Analytics 1](https://github.com/joshmadakor1/Sentinel-Lab)
+- <b>Data Science (R)</b>
+  - [Data Science 1](https://github.com/MeghanKPartrick)
 
 <h2>📊 Economics Research</h2>
 
 - <b>Published Work (Stata)</b>
   - [Impact of Federal Pandemic Unemployment Compensation on the Individual Decision to Work Post-Pandemic in the US](https://github.com/MeghanKPartrick/FPUC-2Research)
 - <b>Additional (Stata)</b>
-  - [Insert Paper Name](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Insert Paper Name](https://github.com/MeghanKPartrick)
 
 <h2>📺 YouTube Videos</h2>
 
