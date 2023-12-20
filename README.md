@@ -11,7 +11,7 @@
 <h2>📊 Economics Research</h2>
 
 - <b>Published Work (Stata)</b>
-  - [Impact of Federal Pandemic Unemployment Compensation on the Individual Decision to Work Post-Pandemic in the US](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Impact of Federal Pandemic Unemployment Compensation on the Individual Decision to Work Post-Pandemic in the US](https://github.com/MeghanKPartrick/FPUC-2Research)
 - <b>Additional (Stata)</b>
   - [Insert Paper Name](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
