@@ -5,6 +5,7 @@
 - <b>Data Analytics (R)</b>
   - [Modeling and Transformations](https://github.com/MeghanKPartrick/BasicModeling)
   - [Continued Modeling with Extra Testing](https://github.com/MeghanKPartrick/ModelingandTesting)
+  - [Model Selection Methods](https://github.com/MeghanKPartrick/Model-Selection-Methods)
 - <b>Data Science (R)</b>
 
 <h2>📊 Economics Research</h2>
