@@ -17,7 +17,7 @@
 
 <h2>📺 YouTube Videos</h2>
 
-- [Economic Analysis: FPUC-2 Impact on the Individual Decision to Work Post-Pandemic](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Economic Analysis: FPUC-2 Impact on the Individual Decision to Work Post-Pandemic](https://www.youtube.com/channel/UCpVZW7OqVaZdBhOk13dUGzA)
 
 <h2>📄 Certifications</h2>
 
