@@ -20,7 +20,7 @@
 
 <h2>📄 Certifications</h2>
 
-- [Udemy: The Complete SQL Bootcamp](https://www.youtube.com/@MeghanPartrick)
+- [Udemy: The Complete SQL Bootcamp](https://github.com/MeghanKPartrick/UdemySQL)
 
 <h2> 🤳 Connect with me:</h2>
 
