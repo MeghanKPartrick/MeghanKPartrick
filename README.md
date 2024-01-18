@@ -1,18 +1,17 @@
-<h1>Hi, I'm Meghan! <br/><a href="future link here">Data Analyst</a>, <a href="future link here">Economist</a>, <a href="future link here">Data Scientist</a>
+<h1>Hi, I'm Meghan! <br/><a href="future link here">Data Scientist</a>, <a href="future link here">Data Analyst</a>, <a href="future link here">Economist</a>
 
 <h2>👨‍💻 Data Projects:</h2>
 
-- <b>Data Analytics (R)</b>
+- <b>Data Analytics and Data Science (R)</b>
   - [Modeling and Transformations](https://github.com/MeghanKPartrick/BasicModeling)
   - [Continued Modeling with Extra Testing](https://github.com/MeghanKPartrick/ModelingandTesting)
   - [Model Selection Methods](https://github.com/MeghanKPartrick/Model-Selection-Methods)
-- <b>Data Science (R)</b>
 
 <h2>📊 Economics Research</h2>
 
-- <b>Published Work (Stata)</b>
+- <b>Group Research (Stata)</b>
   - [Impact of Federal Pandemic Unemployment Compensation on the Individual Decision to Work Post-Pandemic in the US](https://github.com/MeghanKPartrick/FPUC-2Research)
-- <b>Additional (Stata)</b>
+- <b>Individual Research (Stata)</b>
   - [Impact of Federal Pandemic Unemployment Compensation on the Individual Decision to Work Post-Pandemic: Complex Models](https://github.com/MeghanKPartrick/FPUC-Individual-Research/blob/main/README.md)
 
 <h2>📺 YouTube Videos</h2>
