@@ -6,6 +6,7 @@
   - [Modeling and Transformations](https://github.com/MeghanKPartrick/BasicModeling)
   - [Continued Modeling with Extra Testing](https://github.com/MeghanKPartrick/ModelingandTesting)
   - [Model Selection Methods](https://github.com/MeghanKPartrick/Model-Selection-Methods)
+  - [Categorical Data and Polynomial Models](https://github.com/MeghanKPartrick/Model-Selection-Methods)
 
 <h2>📊 Economics Research</h2>
 
