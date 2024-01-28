@@ -8,6 +8,7 @@
   - [Model Selection Methods](https://github.com/MeghanKPartrick/Model-Selection-Methods)
   - [Categorical Data and Polynomial Models](https://github.com/MeghanKPartrick/Categorical-Data-and-Polynomial-Methods)
   - [Advanced Modeling and Cross Validation](https://github.com/MeghanKPartrick/Ade-Modeling-and-Cross-Validation)
+  - [Logistic Modeling and Plotting Curves](https://github.com/MeghanKPartrick/Logistic-Modeling-and-Plotting)
 
 <h2>📊 Economics Research</h2>
 
