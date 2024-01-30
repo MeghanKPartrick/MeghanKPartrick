@@ -1,6 +1,6 @@
 <h1>Hi, I'm Meghan! <br/><a href="future link here">Data Scientist</a>, <a href="future link here">Data Analyst</a>, <a href="future link here">Economist</a>
 
-<h2>👨‍💻 Data Projects:</h2>
+<h2>👨‍💻 Data Science/Analytics Projects:</h2>
 
 - <b>Data Analytics and Data Science (R)</b>
   - [Modeling and Transformations](https://github.com/MeghanKPartrick/BasicModeling)
@@ -10,6 +10,7 @@
   - [Advanced Modeling and Cross Validation](https://github.com/MeghanKPartrick/Ade-Modeling-and-Cross-Validation)
   - [Logistic Modeling and Plotting Curves](https://github.com/MeghanKPartrick/Logistic-Modeling-and-Plotting)
   - [Logistic Modeling with Interactions](https://github.com/MeghanKPartrick/Logistic-Modeling-With-Interactions)
+  - [ANOVA Modeling and Testing](https://github.com/MeghanKPartrick/ANOVA-modeling-and-testing/blob/main/README.md)
 
 <h2>📊 Economics Research</h2>
 
