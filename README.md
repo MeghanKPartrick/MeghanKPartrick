@@ -13,6 +13,7 @@
   - [ANOVA Modeling and Testing](https://github.com/MeghanKPartrick/ANOVA-modeling-and-testing)
   - [Binary Response Data](https://github.com/MeghanKPartrick/Binary-Response-Data)
   - [Generalized Linear Models](https://github.com/MeghanKPartrick/Generalized-Linear-Models)
+  - [Count Regression](https://github.com/MeghanKPartrick/Count-Regression)
 
 <h2>📊 Economics Research</h2>
 
