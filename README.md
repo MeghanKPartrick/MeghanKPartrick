@@ -12,6 +12,7 @@
   - [Logistic Modeling with Interactions](https://github.com/MeghanKPartrick/Logistic-Modeling-With-Interactions)
   - [ANOVA Modeling and Testing](https://github.com/MeghanKPartrick/ANOVA-modeling-and-testing)
   - [Binary Response Data](https://github.com/MeghanKPartrick/Binary-Response-Data)
+  - [Generalized Linear Models](https://github.com/MeghanKPartrick/Generalized-Linear-Models)
 
 <h2>📊 Economics Research</h2>
 
