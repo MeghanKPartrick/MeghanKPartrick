@@ -17,6 +17,7 @@
   - [Contingency Tables](https://github.com/MeghanKPartrick/Contingency-Tables)
   - [Random Effects](https://github.com/MeghanKPartrick/Random-Effects)
   - [Bayesian Mixed Effects Models](https://github.com/MeghanKPartrick/Bayesian-Mixed-Effects-Models)
+  - [Mixed Effects Models for Nonnormal Responses](https://github.com/MeghanKPartrick/Mixed-Effects-Nonnormal-Responses)
 
 <h2>📊 Economics Research</h2>
 
