@@ -10,8 +10,8 @@
   - [Advanced Modeling and Cross Validation](https://github.com/MeghanKPartrick/Ade-Modeling-and-Cross-Validation)
   - [Logistic Modeling and Plotting Curves](https://github.com/MeghanKPartrick/Logistic-Modeling-and-Plotting)
   - [Logistic Modeling with Interactions](https://github.com/MeghanKPartrick/Logistic-Modeling-With-Interactions)
-  - [ANOVA Modeling and Testing](https://github.com/MeghanKPartrick/ANOVA-modeling-and-testing/blob/main/README.md)
-  - [Binary Response Data](https://github.com/MeghanKPartrick/Binary-Response-Data/blob/main/README.md)
+  - [ANOVA Modeling and Testing](https://github.com/MeghanKPartrick/ANOVA-modeling-and-testing)
+  - [Binary Response Data](https://github.com/MeghanKPartrick/Binary-Response-Data)
 
 <h2>📊 Economics Research</h2>
 
