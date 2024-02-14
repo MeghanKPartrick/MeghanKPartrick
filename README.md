@@ -14,6 +14,7 @@
   - [Binary Response Data](https://github.com/MeghanKPartrick/Binary-Response-Data)
   - [Generalized Linear Models](https://github.com/MeghanKPartrick/Generalized-Linear-Models)
   - [Count Regression](https://github.com/MeghanKPartrick/Count-Regression)
+  - [Contingency Tables](https://github.com/MeghanKPartrick/Contingency-Tables)
 
 <h2>📊 Economics Research</h2>
 
