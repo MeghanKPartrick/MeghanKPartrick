@@ -16,6 +16,7 @@
   - [Count Regression](https://github.com/MeghanKPartrick/Count-Regression)
   - [Contingency Tables](https://github.com/MeghanKPartrick/Contingency-Tables)
   - [Random Effects](https://github.com/MeghanKPartrick/Random-Effects)
+  - [Bayesian Mixed Effects Models](https://github.com/MeghanKPartrick/Bayesian-Mixed-Effects-Models)
 
 <h2>📊 Economics Research</h2>
 
