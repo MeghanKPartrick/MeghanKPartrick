@@ -18,6 +18,9 @@
   - [Random Effects](https://github.com/MeghanKPartrick/Random-Effects)
   - [Bayesian Mixed Effects Models](https://github.com/MeghanKPartrick/Bayesian-Mixed-Effects-Models)
   - [Mixed Effects Models for Nonnormal Responses](https://github.com/MeghanKPartrick/Mixed-Effects-Nonnormal-Responses)
+ 
+- <b>Exploratory Data Analysis (R)</b>
+  - [Exploratory Data Analysis in Sports Analytics: Tennis](https://github.com/MeghanKPartrick/EDA-Tennis)
 
 <h2>📊 Economics Research</h2>
 
