@@ -2,7 +2,11 @@
 
 <h2>👨‍💻 Data Science/Analytics Projects:</h2>
 
-- <b>Data Analytics and Data Science (R)</b>
+- <b>Sports Analytics</b>
+  - [Exploratory Data Analysis in Sports Analytics: Tennis (R)](https://github.com/MeghanKPartrick/EDA-Tennis)
+  - [Predictive Modeling in the NBA (R/Python)](https://github.com/MeghanKPartrick/PredictiveModelingNBA)
+
+- <b>General Data Analytics and Data Science (R)</b>
   - [Modeling and Transformations](https://github.com/MeghanKPartrick/BasicModeling)
   - [Continued Modeling with Extra Testing](https://github.com/MeghanKPartrick/ModelingandTesting)
   - [Model Selection Methods](https://github.com/MeghanKPartrick/Model-Selection-Methods)
@@ -18,9 +22,6 @@
   - [Random Effects](https://github.com/MeghanKPartrick/Random-Effects)
   - [Bayesian Mixed Effects Models](https://github.com/MeghanKPartrick/Bayesian-Mixed-Effects-Models)
   - [Mixed Effects Models for Nonnormal Responses](https://github.com/MeghanKPartrick/Mixed-Effects-Nonnormal-Responses)
- 
-- <b>Exploratory Data Analysis (R)</b>
-  - [Exploratory Data Analysis in Sports Analytics: Tennis](https://github.com/MeghanKPartrick/EDA-Tennis)
 
 <h2>📊 Economics Research</h2>
 
