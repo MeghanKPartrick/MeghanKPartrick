@@ -1,13 +1,25 @@
 <h1>Hi, I'm Meghan! <br/><a href="future link here">Data Scientist</a>, <a href="future link here">Data Analyst</a>, <a href="future link here">Economist</a>
 
-<h2>👨‍💻 Data Science/Analytics Projects:</h2>
+<h2>👨‍💻 Data Science/Analytics Projects</h2>
 
 - <b>Sports Analytics</b>
   - [Exploratory Data Analysis in Sports Analytics: Tennis (R)](https://github.com/MeghanKPartrick/EDA-Tennis)
   - [Predictive Modeling in the NBA (R/Python)](https://github.com/MeghanKPartrick/PredictiveModelingNBA)
   - [Water Polo Analytics](https://github.com/MeghanKPartrick/Water-Polo-Analytics)
+ 
+- <b>General Analytics</b>
+  - [Video Game Analytics: Exploratory Data Analysis and Modeling (R)](https://github.com/MeghanKPartrick/video-game-analytics)
 
-- <b>General Data Analytics and Data Science (R)</b>
+
+<h2>📊 Economics Research</h2>
+
+- <b>Group Research (Stata)</b>
+  - [Impact of Federal Pandemic Unemployment Compensation on the Individual Decision to Work Post-Pandemic in the US](https://github.com/MeghanKPartrick/FPUC-2Research)
+- <b>Individual Research (Stata)</b>
+  - [Impact of Federal Pandemic Unemployment Compensation on the Individual Decision to Work Post-Pandemic: Complex Models](https://github.com/MeghanKPartrick/FPUC-Individual-Research/blob/main/README.md)
+
+<h2> 📚General Data Analytics and Data Science Knowledge (R) </h2>
+
   - [Modeling and Transformations](https://github.com/MeghanKPartrick/BasicModeling)
   - [Continued Modeling with Extra Testing](https://github.com/MeghanKPartrick/ModelingandTesting)
   - [Model Selection Methods](https://github.com/MeghanKPartrick/Model-Selection-Methods)
@@ -24,12 +36,6 @@
   - [Bayesian Mixed Effects Models](https://github.com/MeghanKPartrick/Bayesian-Mixed-Effects-Models)
   - [Mixed Effects Models for Nonnormal Responses](https://github.com/MeghanKPartrick/Mixed-Effects-Nonnormal-Responses)
 
-<h2>📊 Economics Research</h2>
-
-- <b>Group Research (Stata)</b>
-  - [Impact of Federal Pandemic Unemployment Compensation on the Individual Decision to Work Post-Pandemic in the US](https://github.com/MeghanKPartrick/FPUC-2Research)
-- <b>Individual Research (Stata)</b>
-  - [Impact of Federal Pandemic Unemployment Compensation on the Individual Decision to Work Post-Pandemic: Complex Models](https://github.com/MeghanKPartrick/FPUC-Individual-Research/blob/main/README.md)
 
 <h2>📄 Certifications</h2>
 
