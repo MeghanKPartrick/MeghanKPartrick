@@ -5,6 +5,7 @@
 - <b>Sports Analytics</b>
   - [Exploratory Data Analysis in Sports Analytics: Tennis (R)](https://github.com/MeghanKPartrick/EDA-Tennis)
   - [Predictive Modeling in the NBA (R/Python)](https://github.com/MeghanKPartrick/PredictiveModelingNBA)
+  - [Water Polo Analytics](https://github.com/MeghanKPartrick/Water-Polo-Analytics)
 
 - <b>General Data Analytics and Data Science (R)</b>
   - [Modeling and Transformations](https://github.com/MeghanKPartrick/BasicModeling)
